@@ -1,0 +1,31 @@
+_repo: Sofonisba_31080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alfieri, Vittorio
+    birthdate: 1749
+    deathdate: 1803
+    gutenberg_agent_id: '24785'
+    url: http://www.gutenberg.org/2009/agents/24785
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Vittorio_Alfieri
+    - http://pt.wikipedia.org/wiki/Vittorio_alfieri
+description: ''
+gutenberg_bookshelf: IT Teatro in versi
+gutenberg_issued: '2010-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31080'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama'
+- !lcsh 'Tragedies'
+- !lcc 'PQ'
+title: Sofonisba
+url: http://www.gutenberg.org/ebooks/31080
